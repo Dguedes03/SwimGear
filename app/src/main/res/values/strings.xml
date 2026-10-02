@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SwimGear</string>
+    <string name="xml_title">Meus equipamentos</string>
+    <string name="xml_subtitle">PARCIAL · ANDROID VIEWS</string>
+    <string name="xml_notice">Esta versão usa exemplos em memória. As alterações não afetam a mochila principal.</string>
+    <string name="voltar">Voltar</string>
+    <string name="marca_nao_informada">Marca não informada</string>
+    <string name="sem_descricao">Nenhuma observação cadastrada.</string>
+    <string name="item_nao_encontrado">Equipamento não encontrado.</string>
+    <string name="pronto">Pronto para o treino</string>
+    <string name="pendente">Ainda não separado</string>
+    <string name="remover_mochila">Remover da mochila</string>
+    <string name="marcar_pronto">Marcar como pronto</string>
+    <string name="observacoes">Observações</string>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <color name="background">#102421</color><color name="card">#18302B</color>
+    <color name="ink">#E1F0E9</color><color name="muted">#BACDC4</color>
+    <color name="teal">#82D7C5</color><color name="mint">#11534B</color>
+</resources>
